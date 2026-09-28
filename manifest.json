@@ -1,0 +1,14 @@
+{
+  "name": "As 100 Tascas",
+  "short_name": "100 Tascas",
+  "description": "Guia de bolso às 100 melhores tascas de Portugal, segundo António Catarino e Rui Cardoso.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d2e3a",
+  "theme_color": "#17495a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
